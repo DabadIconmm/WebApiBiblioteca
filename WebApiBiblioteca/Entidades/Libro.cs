@@ -4,6 +4,7 @@ namespace Ejercicio_Sesión_1.Entidades
 {
     public class Libro
     {
+        //Comentario para el segundo Commit Post Reflog
         [Key]
         public int Id { get; set; }
         [Required]
