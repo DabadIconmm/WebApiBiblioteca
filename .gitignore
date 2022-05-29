@@ -1,3 +1,5 @@
 .vs/
 WebApiBiblioteca/bin
 WebApiBiblioteca/obj
+/obj
+/bin
